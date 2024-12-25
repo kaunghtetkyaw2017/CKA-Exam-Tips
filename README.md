@@ -1,7 +1,7 @@
 # CKA-Exam-Tips
 
 # SUMMARY
-The presenter shares practical tips for passing the Certified Kubernetes Administrator (CKA) exam, emphasizing preparation, effective time management, and utilizing available resources.
+Certified Kubernetes Administrator (CKA) exam, emphasizing preparation, effective time management, and utilizing available resources.
 
 # IDEAS
 - Kubernetes dominates cloud infrastructure, serving as the "Linux of the cloud."
